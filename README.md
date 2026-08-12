@@ -47,10 +47,6 @@ My current interests include:
   **[BTC-TC: Exact GPU Triangle Counting with Hybrid Bit Tensor Cores and CUDA Cores](https://github.com/fanna1234/btc-tc-artifact).**  
   *International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)*, 2026.
 
-- Chengying Huan, Heng Zhang, Yongchao Liu, Likang Chen, Xuran Wang, **Yongchun Jiang**, Shaonan Ma, and Yanjun Wu.  
-  **[TeMatch: A Fast Temporal Subgraph Matching Framework with Temporal-Aware Subgraph Matching Algorithms](https://doi.org/10.1109/ICDE65448.2025.00082).**  
-  *41st IEEE International Conference on Data Engineering (ICDE)*, 2025.
-
 ## Toolbox
 
 `CUDA C++` · `C/C++` · `Python` · `PyTorch` · `PyTorch Geometric` ·
@@ -62,4 +58,3 @@ I am open to research collaborations and opportunities in GPU systems,
 high-performance computing, and AI infrastructure.
 
 - Email: [jiangyongchun24@mails.ucas.ac.cn](mailto:jiangyongchun24@mails.ucas.ac.cn)
-
