@@ -8,7 +8,6 @@ M.Eng. student at the Institute of Software, Chinese Academy of Sciences
 University of Chinese Academy of Sciences
 
 [![Email](https://img.shields.io/badge/Email-jiangyongchun24%40mails.ucas.ac.cn-5a9f00?style=flat-square)](mailto:jiangyongchun24@mails.ucas.ac.cn)
-[![Homepage](https://img.shields.io/badge/Homepage-yongqiu--star.github.io-2d623f?style=flat-square)](https://yongqiu-star.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-yongqiu--star-181717?style=flat-square&logo=github)](https://github.com/yongqiu-star)
 
 </div>
